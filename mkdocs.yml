@@ -57,7 +57,8 @@ theme:
 nav:
   - Products:
       - Content Retention Manager for Confluence: products/content-retention-manager.md
-  - Knowlege Base:
+  - Information Governance Knowledge Base:
+      - kb/index.md
       - Why Develop a Data Retention Policy: kb/why-develop-a-data-retention-policy.md
       - The Importance of Information Governance: kb/the-importance-of-information-governance.md
       - Data Retention Policies and Management Best Practices: kb/data-retention-policies-and-management-best-practices.md
@@ -68,4 +69,3 @@ nav:
   - Legal:
       - Privacy Policy: legal/privacy.md
       - Terms of Service: legal/tos.md
-  - Glossary: glossary.md
