@@ -8,6 +8,8 @@ markdown_extensions:
   - attr_list
   - def_list
   - tables
+  - toc:
+      permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -16,6 +18,7 @@ theme:
   features:
     - navigation.sections
     - navigation.top
+    - navigation.tabs
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -23,6 +26,7 @@ theme:
     - header.autohide
   language: en
   logo: /assets/opusguard-logo.png
+  favicon: assets/opusguard-favicon.png
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -49,6 +53,12 @@ theme:
 nav:
   - Products:
       - Content Retention Manager for Confluence: products/content-retention-manager.md
+  - Knowlege Base:
+      - Why Develop a Data Retention Policy: kb/why-develop-a-data-retention-policy.md
+      - The Importance of Information Governance: kb/the-importance-of-information-governance.md
+      - Data Retention Policies and Management Best Practices: kb/data-retention-policies-and-management-best-practices.md
+      - Data Retention Laws and Regulations: kb/data-retention-laws-and-regulations.md
+      - How to Build a Data Retention Practice: kb/how-to-build-a-data-retention-practice.md
   - Security and Trust:
       - Security Programs: security/security-programs.md
   - Legal:
