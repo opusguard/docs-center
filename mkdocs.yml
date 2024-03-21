@@ -54,6 +54,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+extra:
+  analytics:
+    provider: google
+    property: G-1THNJXVN59
 nav:
   - Products:
       - Content Retention Manager for Confluence: products/content-retention-manager.md
