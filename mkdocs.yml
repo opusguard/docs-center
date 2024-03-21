@@ -16,10 +16,14 @@ markdown_extensions:
 theme:
   name: material
   features:
-    - navigation.sections
-    - navigation.top
+    - navigation.indexes
+    - navigation.prune
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
     - toc.integrate
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link
