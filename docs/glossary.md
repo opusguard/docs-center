@@ -1,3 +1,5 @@
+# Glossary
+
 Here are the key terms used by Content Retention Manager for Confluence (CRMC):
 
 audit log

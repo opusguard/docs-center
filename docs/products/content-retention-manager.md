@@ -2,33 +2,17 @@
 
 ## Introduction
 
-Content Manager for Confluence has both free and paid versions. Our free or
-`Lite` version captures the core values and functions of information governance
-and retention policy management but with limited expanded capabilities as
-outlined below.
-
-| Features                                    | Content Manager for Confluence - Lite | Content Manager for Confluence - Full |
-| ------------------------------------------- | ------------------------------------- | ------------------------------------- |
-| Content Audit                               | :white_check_mark:                    | :white_check_mark:                    |
-| Define Retention Policies                   | :white_check_mark:                    | :white_check_mark:                    |
-| Admin Bulk Purge                            | :white_check_mark:                    | :white_check_mark:                    |
-| Audit Log                                   | :white_check_mark:                    | :white_check_mark:                    |
-| Retention Policy Exceptions                 | :warning: Up to 100 exceptions        | :white_check_mark:                    |
-| Automated Content Deletion                  | :cross_mark:                          | :white_check_mark:                    |
-| Automated Content Purge                     | :cross_mark:                          | :white_check_mark:                    |
-| Indefinite Retention Content Support        | :cross_mark:                          | :white_check_mark:                    |
-| Technical & Implementation Customer Support | :cross_mark:                          | :white_check_mark:                    |
-
-### A retention service for organizations who use Confluence
-
-Retention Manager for Confluence makes it easy for teams to track all content across Confluence against the organization’s defined data retention policies. Our app helps teams across Legal, Human Resources, and IT easily manage how long content is stored or retained across Confluence instances. This app is incredibly powerful; with the ability to index all data and purge (irreversibly remove) content in bulk actions.
+Retention Manager for Confluence is a retention service for organizations who use Confluence. Retention Manager makes it easy for teams to track all content across Confluence against the organization’s defined data retention policies. Our app helps teams across Legal, Human Resources, and IT easily manage how long content is stored or retained across Confluence instances. This app is incredibly powerful; with the ability to index all data and purge (irreversibly remove) content in bulk actions.
 
 ### How it works
 
 Retention Manager focuses on information governance for Confluence falling into two basic categories retention and removal.
 
-- **Retain content on Confluence for as long as you need it.** You can retain content for a set or indefinite time. Content remains available to admins even when a user archives or deletes the page or blog.
-- **Remove content on Confluence when you no longer need it.** You can purge content from Confluence when it is no longer needed. Once purged, content cannot be recovered by admins or users.
+**:file_folder: Retain content on Confluence for as long as you need it.**
+: You can retain content for a set or indefinite time. Content remains available to admins even when a user archives or deletes the page or blog.
+
+**:material-trash-can-outline: Remove content on Confluence when you no longer need it.**
+: You can purge content from Confluence when it is no longer needed. Once purged, content cannot be recovered by admins or users.
 
 ### Data Management within Content Manager
 
@@ -45,3 +29,22 @@ Familiarize yourself with laws and regulations you may be already subject to
 Consider best practices when implementing content retention policies.
 Have a defined company retention policy ahead of time.
 Have an instance of Confluence, Free, Standard, or Premium can work with our Retention Manager apps, however a paid version of Confluence may be required for our paid Retention Manager for Confluence which contains features your team may consider critical.
+
+## Licensing
+
+Content Manager for Confluence has both free and paid versions. Our free or
+`Lite` version captures the core values and functions of information governance
+and retention policy management but with limited expanded capabilities as
+outlined below.
+
+| Features                                    | Content Manager for Confluence - Lite | Content Manager for Confluence - Full |
+| ------------------------------------------- | ------------------------------------- | ------------------------------------- |
+| Content Audit                               | :white_check_mark:                    | :white_check_mark:                    |
+| Define Retention Policies                   | :white_check_mark:                    | :white_check_mark:                    |
+| Admin Bulk Purge                            | :white_check_mark:                    | :white_check_mark:                    |
+| Audit Log                                   | :white_check_mark:                    | :white_check_mark:                    |
+| Retention Policy Exceptions                 | :warning: Up to 100 exceptions        | :white_check_mark:                    |
+| Automated Content Deletion                  | :cross_mark:                          | :white_check_mark:                    |
+| Automated Content Purge                     | :cross_mark:                          | :white_check_mark:                    |
+| Indefinite Retention Content Support        | :cross_mark:                          | :white_check_mark:                    |
+| Technical & Implementation Customer Support | :cross_mark:                          | :white_check_mark:                    |
