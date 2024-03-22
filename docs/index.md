@@ -1,6 +1,6 @@
 # Welcome to Opus Guard Documentation Center
 
-## [Products](products/content-retention-manager.md)
+## [Products](products/content-retention-manager/introduction.md)
 
 Read documentation for Content Retention Manager for Confluence and licensing information.
 
