@@ -2,7 +2,9 @@
 
 When developing a data retention policy for your company, the following best practices help make sure your policy is effective, compliant with relevant laws and regulations, and aligned with your business objectives. Here are some key best practices to consider.
 
-> :information_source: We recommend you review all policies, practices, and processes related to this app with your company’s legal representative before you begin enforcing any retention policies. This will help you remain compliant with any applicable laws or regulations.
+!!! info
+
+    We recommend you review all policies, practices, and processes related to this app with your company’s legal representative before you begin enforcing any retention policies. This will help you remain compliant with any applicable laws or regulations.
 
 **Understand Legal and Regulatory Requirements**
 : Begin by understanding the legal and regulatory requirements that apply to your industry and the type of data you handle. This includes laws such as GDPR, HIPAA, CCPA, and industry-specific regulations. Ensure that your data retention policy complies with these requirements. Review our section on Data Retention Laws and Regulations to get started.
