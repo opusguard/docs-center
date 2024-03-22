@@ -6,6 +6,7 @@ plugins:
   - search
 markdown_extensions:
   - attr_list
+  - md_in_html
   - def_list
   - tables
   - toc:
@@ -61,7 +62,11 @@ extra:
     property: G-1THNJXVN59
 nav:
   - Products:
-      - Content Retention Manager for Confluence: products/content-retention-manager.md
+      - Content Retention Manager for Confluence:
+          - products/content-retention-manager/introduction.md
+          - products/content-retention-manager/quick-start.md
+          - products/content-retention-manager/licensing.md
+          - products/content-retention-manager/glossary.md
   - Information Governance Knowledge Base:
       - kb/index.md
       - Why Develop a Data Retention Policy: kb/why-develop-a-data-retention-policy.md
