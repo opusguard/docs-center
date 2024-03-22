@@ -1,8 +1,8 @@
-> ### Highlights
->
-> - We do not collect any PII through Atlassian Apps
-> - We use only necessary cookies on our site to make it accessible and provide a good experience
-> - Our Atlassian Apps operate exclusively on Atlassian through Atlassian Forge.
+!!! tip "Highlights"
+
+    - We do not collect any PII through Atlassian Apps
+    - We use only necessary cookies on our site to make it accessible and provide a good experience
+    - Our Atlassian Apps operate exclusively on Atlassian through Atlassian Forge.
 
 # Opus Guard, Inc. PRIVACY POLICY
 

@@ -2,7 +2,9 @@
 
 Data retention is not just about cleaning up a Confluence space but it helps your organization stay compliant against the growing number of laws and regulations around data practices. Laws and regulations related to data retention policies vary depending on the country, industry, and the type of data being handled. The following are some (not exhaustive) of the largest regulations, acts, and laws that apply to data retention policies.
 
-> :information_source: It's important for your organization to carefully review the relevant laws and regulations applicable to their specific circumstances and seek legal advice to ensure compliance with data retention requirements. Failure to comply with these regulations can result in significant penalties, fines, and reputation damage.
+!!! info
+
+    It's important for your organization to carefully review the relevant laws and regulations applicable to their specific circumstances and seek legal advice to ensure compliance with data retention requirements. Failure to comply with these regulations can result in significant penalties, fines, and reputation damage.
 
 [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 : GDPR is a European Union regulation that governs the protection of personal data of EU citizens. It mandates strict requirements for the collection, storage, and processing of personal data, including specific provisions regarding data retention periods and purposes. While GDPR does not set a strict retention period, it specifies that organizations are obliged to publish and enforce retention policies.
@@ -37,4 +39,6 @@ Data retention is not just about cleaning up a Confluence space but it helps you
 Data Protection Laws of Other Jurisdictions
 : In addition to the above, companies may need to comply with various data protection laws and regulations in other jurisdictions where they operate or where their customers are located. For example, the [Personal Information Protection and Electronic Documents Act (PIPEDA)](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) in Canada and the [Personal Data Protection Act (PDPA)](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act) in Singapore.
 
-> :warning: If your organization falls into an industry or does business with an organization in public utilities, banking, government, finance, or health care, you are more likely required to publish and strictly enforce a data retention policy and deploy a service such as Contention Retention Manager for Confluence.
+!!! warning
+
+    If your organization falls into an industry or does business with an organization in public utilities, banking, government, finance, or health care, you are more likely required to publish and strictly enforce a data retention policy and deploy a service such as Contention Retention Manager for Confluence.
