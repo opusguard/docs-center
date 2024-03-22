@@ -1,5 +1,6 @@
 site_name: Opus Guard Documentation Center
 site_url: https://docs.opusguard.com
+copyright: '&copy; 2024 <a href="http://www.opusguard.com">Opus Guard</a>'
 extra_css:
   - stylesheets/extra.css
 plugins:
@@ -58,10 +59,17 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 extra:
+  homepage: http://www.opusguard.com
+  generator: false
   analytics:
     provider: google
     property: G-1THNJXVN59
+  social:
+    - icon: material/linkedin
+      link: https://www.linkedin.com/company/opus-guard
+      name: Opus Guard on LinkedIn
 nav:
+  - Home: http://www.opusguard.com
   - Products:
       - Content Retention Manager for Confluence:
           - products/content-retention-manager/introduction.md
