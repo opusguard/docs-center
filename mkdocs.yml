@@ -4,6 +4,7 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
+  - social
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -31,7 +32,7 @@ theme:
     - content.tabs.link
     - header.autohide
   language: en
-  logo: /assets/opusguard-logo.png
+  logo: assets/opusguard-logo.png
   favicon: assets/opusguard-favicon.png
   palette:
     # Palette toggle for automatic mode
