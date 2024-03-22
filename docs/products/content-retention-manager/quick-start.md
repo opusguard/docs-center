@@ -1,4 +1,4 @@
-The following is intended to be a quick start for those familiar we data retention tools and are looking to quickly deploy Content Retention Manager for Confluence. This starter guide applies to both Content Retention Manager for Confluence and Content Retention Manager for Confluence - Lite with feature differentiation noted.
+The following is intended to be a quick start for those familiar with data retention tools and are looking to quickly deploy Content Retention Manager for Confluence. This starter guide applies to both Content Retention Manager for Confluence and Content Retention Manager for Confluence - Lite with feature differentiation noted.
 
 ## In this guide we’ll do the following
 
